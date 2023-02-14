@@ -1,0 +1,1 @@
+console.log('Quadlite has been installed');
